@@ -1,0 +1,5 @@
+---
+applications:
+- name:    hello-node1
+  host:    hello-node-test-gf
+  memory:  128M
